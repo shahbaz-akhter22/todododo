@@ -1,0 +1,47 @@
+html{
+    background-color: black;
+    font-size: large;
+}
+
+.container{
+    color: aquamarine;
+    background-color: rgba(196, 1, 1, 0.692);
+    margin: 0%;
+    box-sizing: border-box;
+    padding: 0%;
+    padding-top: 2px;
+    padding-left: 20px;
+    padding-bottom:10px;
+    border-width: 20px;
+}
+
+
+.butt{
+opacity: 90%;
+}
+
+#plus{
+    background-color: rgb(0, 115, 255);
+    border-radius: 55%;
+    border-width: 0cap;
+    font-size: large;
+}
+#remove{
+    background-color: rgb(255, 0, 234);
+    border-radius: 55%;
+    border-width: 0cap;
+    font-size: large;
+}
+
+#del{
+    background-color: rgb(255, 0, 0);
+    border-radius: 55%;
+    border-width: 0cap;
+}
+#edit{
+    background-color: rgb(0, 255, 72);
+    border-radius: 34%;
+    border-width: 0cap;
+}
+
+#del.hover{opacity:80%;}
